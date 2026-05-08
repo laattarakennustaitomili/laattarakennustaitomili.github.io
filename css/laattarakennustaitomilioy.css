@@ -743,7 +743,8 @@ strong {
 .image-3 {
   object-fit: contain;
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
+  margin-top: 2rem;
 }
 
 .image-3.smlal {
